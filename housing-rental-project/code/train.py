@@ -14,5 +14,5 @@ with mlflow.start_run():
     model.fit(X_train, y_train)
     score = model.score(X_test, y_test)
     mlflow.log_metric("r2_score", score)
-    mlflow.sklearn.log_model(model, name="model")
+    mlflow.sklearn.log_model(model, artifact_path="model")  # Use artifact_path, not name
     print("Model trained and logged with MLflow.")

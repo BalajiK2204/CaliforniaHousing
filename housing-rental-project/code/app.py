@@ -4,7 +4,7 @@ import mlflow.sklearn
 import pandas as pd
 
 app = Flask(__name__)
-model = mlflow.sklearn.load_model("mlruns/0/models")
+model = mlflow.sklearn.load_model("mlruns/0/models/m-4ed7519c98034ff9ad5a795b69484180/artifacts")
 
 @app.route('/predict', methods=['POST'])
 def predict():
