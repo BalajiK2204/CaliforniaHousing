@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Bala/AIML/Semester3/MLOps%20Assignment/mlruns/0/models/m-2689eda3d94344d1baf6a47de8570799/artifacts
+creation_timestamp: 1754743971188
+experiment_id: '0'
+last_updated_timestamp: 1754743975116
+model_id: m-2689eda3d94344d1baf6a47de8570799
+model_type: null
+name: model
+source_run_id: 460e7587b137467facd43f505da47bfb
+status: 2
+status_message: null

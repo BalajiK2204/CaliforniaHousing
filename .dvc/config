@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = https://github.com/BalajiK2204/CaliforniaHousing/commit/b56cf06851e36a36a8a8d9c6f69b1d78ede2fc8f

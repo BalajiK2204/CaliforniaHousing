@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Bala/AIML/Semester3/MLOps%20Assignment/mlruns/0/models/m-81702fdb4488448eac8d88f47a4cda24/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.2.0
+model_id: m-81702fdb4488448eac8d88f47a4cda24
+model_size_bytes: 709
+model_uuid: m-81702fdb4488448eac8d88f47a4cda24
+prompts: null
+run_id: f875f31adcef44a8b6ee8c8d67284fec
+utc_time_created: '2025-08-09 12:39:05.916536'

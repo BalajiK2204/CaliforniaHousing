@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Bala/AIML/Semester3/MLOps%20Assignment/mlruns/0/c6f742f38ff14452a4612f76c58a3e1f/artifacts
+end_time: 1754743879861
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6f742f38ff14452a4612f76c58a3e1f
+run_name: resilient-fawn-312
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754743876116
+status: 3
+tags: []
+user_id: bhava

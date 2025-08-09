@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Bala/AIML/Semester3/MLOps%20Assignment/mlruns/0/f875f31adcef44a8b6ee8c8d67284fec/artifacts
+end_time: 1754743149849
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f875f31adcef44a8b6ee8c8d67284fec
+run_name: welcoming-snake-916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754743145781
+status: 3
+tags: []
+user_id: bhava
